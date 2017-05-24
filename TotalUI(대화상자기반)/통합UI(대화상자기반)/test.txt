@@ -1,0 +1,11 @@
+1 A A int a 6
+2 A B int b 2
+3 B BC a<10
+4 BC BB b 5
+5 BB BBC a>1
+6 BBC BC a a+100
+6 BC D a a-1
+7 D DC a<5
+8 DC E a b+4
+9 E EC
+10 EC null a b-3
